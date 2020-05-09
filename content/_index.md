@@ -31,6 +31,14 @@ sections:
     url: blog/index.html
   component: posts_block.html
   num_posts_displayed: 4
+- template: contentblock
+  component: content_block.html
+  type: contentblock
+  title: ''
+  section_id: ''
+  actions: []
+  content: ''
+  image: ''
 layout: home
 menu:
   main:
