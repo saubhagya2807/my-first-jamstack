@@ -585,4 +585,4 @@ models:
       - type: string
         name: parent
         label: Parent Menu Identifier
-        description: The parent of an entry should be the identifier of another entry.
+        description: The parent of an entry should be the identifier of another entry..
